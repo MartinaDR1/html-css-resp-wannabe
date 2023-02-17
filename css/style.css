@@ -144,3 +144,9 @@ img {
         align-items: center;
     }
 }
+
+@media screen and (min-width: 767px) and (max-width:1159px){
+    .container{
+        width: 100%;
+    }
+}
